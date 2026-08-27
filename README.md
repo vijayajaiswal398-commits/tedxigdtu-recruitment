@@ -1,10 +1,10 @@
 # TEDxIGDTU Recruitment Portal
 
 ## What I built
-A TEDxIGDTU-inspired recruitment experience that replaces a generic Google Form with a branded application portal. Applicants can select a team, preview their application ticket, submit their details, and receive an application status. An admin manifest provides search, filters, status updates, applicant details, and CSV export.
+An integrated TEDxIGDTU website enhancement that adds a branded, on-site recruitment flow in place of a generic Google Form while preserving the event website experience. Applicants can select a team, preview their application ticket, submit their details, and receive an application status. An admin manifest provides search, filters, status updates, applicant details, and CSV export.
 
 ## Problem solved
-Recruitment submissions are easier to discover, review, and manage when they live inside the event website instead of being separated into an external form. The experience also gives applicants clearer context about each team and immediate confirmation after applying.
+The original site can turn recruitment into a natural part of the TEDx journey instead of sending visitors to a separate form. This enhancement gives applicants event context, a clear “Join the team” entry point, an immediate ticket-style confirmation, and gives organizers a lightweight review manifest.
 
 ## Key technical and design decisions
 - Next.js App Router with a responsive client-side application flow.
