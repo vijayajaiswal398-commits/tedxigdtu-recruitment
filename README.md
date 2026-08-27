@@ -19,7 +19,12 @@ Open the site locally or use the deployed link below to view the recruitment por
 ![TEDxIGDTU recruitment portal](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-iq1quOrwBKlxJofoNRli5VWtJemrko.png)
 
 ## Deployed link
-_To be added after publishing through Vercel._
+Not deployed yet. The project is ready to publish through Vercel; after deployment, replace this line with the generated production URL.
+
+## Submission status
+- GitHub repository: https://github.com/vijayajaiswal398-commits/tedxigdtu-recruitment
+- Deployed link: Pending Vercel deployment
+- README: Complete
 
 ## AI tools used
 - v0 by Vercel for design exploration, implementation, and iteration.
@@ -30,9 +35,9 @@ _To be added after publishing through Vercel._
 - Add email confirmation and applicant status notifications.
 - Add file uploads for resumes/portfolios with secure storage.
 - Add analytics for application completion and team demand.
-- Connect the deployed URL and include screenshots of the finished recruitment and admin views.
+- Add a production database, deployment URL, and final screenshots of the recruitment and admin views.
 
 ## Development
 Install dependencies with pnpm, then run the Next.js development server with `pnpm dev`.
 
-The project is ready to be connected to a GitHub repository and published through the Vercel Publish flow.
+The project is available in the GitHub repository above and is ready to publish through the Vercel Publish flow.
